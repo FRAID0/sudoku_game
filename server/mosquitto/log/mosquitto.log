@@ -1,0 +1,126 @@
+1732712999: mosquitto version 2.0.18 starting
+1732712999: Config loaded from /mosquitto/config/mosquitto.conf.
+1732712999: Opening websockets listen socket on port 4002.
+1732712999: mosquitto version 2.0.18 running
+1732714800: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1732715020: mosquitto version 2.0.18 terminating
+1732715020: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1732715020: mosquitto version 2.0.18 starting
+1732715020: Config loaded from /mosquitto/config/mosquitto.conf.
+1732715020: Opening websockets listen socket on port 4002.
+1732715020: Opening ipv4 listen socket on port 4005.
+1732715020: Opening ipv6 listen socket on port 4005.
+1732715020: mosquitto version 2.0.18 running
+1732715031: mosquitto version 2.0.18 terminating
+1732715031: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1732715037: mosquitto version 2.0.18 starting
+1732715037: Config loaded from /mosquitto/config/mosquitto.conf.
+1732715037: Opening websockets listen socket on port 4002.
+1732715037: Opening ipv4 listen socket on port 4005.
+1732715037: Opening ipv6 listen socket on port 4005.
+1732715037: mosquitto version 2.0.18 running
+1732715081: New connection from 192.168.65.1:45720 on port 4005.
+1732715081: New client connected from 192.168.65.1:45720 as auto-5C4A0A6A-454B-FE05-C562-195F33AE8296 (p2, c1, k60, u'pass').
+1732715087: New connection from 192.168.65.1:45721 on port 4005.
+1732715087: New client connected from 192.168.65.1:45721 as auto-398628DE-1E0A-0C69-020B-4D0527CE9DAC (p2, c1, k60).
+1732715087: Client auto-398628DE-1E0A-0C69-020B-4D0527CE9DAC disconnected.
+1732715387: Client auto-5C4A0A6A-454B-FE05-C562-195F33AE8296 disconnected.
+1732715413: New connection from 192.168.65.1:45986 on port 4005.
+1732715413: New client connected from 192.168.65.1:45986 as auto-433831E4-2F7F-A6E6-E5B3-A1377115FADD (p2, c1, k60, u'pass').
+1732715436: New connection from 192.168.65.1:46003 on port 4005.
+1732715436: New client connected from 192.168.65.1:46003 as auto-E35B6E0F-AF23-12DB-3A71-2C79DF181D1F (p2, c1, k60).
+1732715436: Client auto-E35B6E0F-AF23-12DB-3A71-2C79DF181D1F disconnected.
+1732715480: Client auto-433831E4-2F7F-A6E6-E5B3-A1377115FADD disconnected.
+1732715483: New connection from 192.168.65.1:46044 on port 4005.
+1732715483: New client connected from 192.168.65.1:46044 as auto-B093EB0C-9C81-695A-3D0D-A82AE8B52A67 (p2, c1, k60, u'pass').
+1732715486: New connection from 192.168.65.1:46045 on port 4005.
+1732715486: New client connected from 192.168.65.1:46045 as auto-02BFD484-F322-5B96-F4FC-7793CD76229E (p2, c1, k60).
+1732715486: Client auto-02BFD484-F322-5B96-F4FC-7793CD76229E disconnected.
+1732715561: Client auto-B093EB0C-9C81-695A-3D0D-A82AE8B52A67 disconnected.
+1732715565: New connection from 192.168.65.1:46110 on port 4005.
+1732715565: New client connected from 192.168.65.1:46110 as auto-215ACFF6-193B-2A8D-3AEC-6F7975BC2DEE (p2, c1, k60, u'pass').
+1732715568: New connection from 192.168.65.1:46119 on port 4005.
+1732715568: New client connected from 192.168.65.1:46119 as auto-D81C2EC0-2A66-E355-D664-11E7D095DEC4 (p2, c1, k60).
+1732715568: Client auto-D81C2EC0-2A66-E355-D664-11E7D095DEC4 disconnected.
+1732715661: Client auto-215ACFF6-193B-2A8D-3AEC-6F7975BC2DEE has exceeded timeout, disconnecting.
+1732715673: New connection from 192.168.65.1:46200 on port 4005.
+1732715673: New client connected from 192.168.65.1:46200 as auto-182359EE-AB33-BDAE-CB1E-4BC1105EB061 (p2, c1, k60, u'pass').
+1732715678: New connection from 192.168.65.1:46209 on port 4005.
+1732715678: New client connected from 192.168.65.1:46209 as auto-68DC52CF-0DF0-7546-A4BC-22806FA94CDC (p2, c1, k60).
+1732715678: Client auto-68DC52CF-0DF0-7546-A4BC-22806FA94CDC disconnected.
+1732715751: Client auto-182359EE-AB33-BDAE-CB1E-4BC1105EB061 disconnected.
+1732715754: New connection from 192.168.65.1:46266 on port 4005.
+1732715754: New client connected from 192.168.65.1:46266 as auto-7B451860-41D6-6721-B755-D32AFF93BAC0 (p2, c1, k60, u'pass').
+1732715758: New connection from 192.168.65.1:46275 on port 4005.
+1732715758: New client connected from 192.168.65.1:46275 as auto-37241423-FDCA-64D0-58D8-64791129E566 (p2, c1, k60).
+1732715758: Client auto-37241423-FDCA-64D0-58D8-64791129E566 disconnected.
+1732715792: Client auto-7B451860-41D6-6721-B755-D32AFF93BAC0 disconnected.
+1732715795: New connection from 192.168.65.1:46300 on port 4005.
+1732715795: New client connected from 192.168.65.1:46300 as auto-1ABA8675-0B1A-B001-6A60-225986C2A29E (p2, c1, k60, u'pass').
+1732715801: New connection from 192.168.65.1:46309 on port 4005.
+1732715801: New client connected from 192.168.65.1:46309 as auto-9BBC9173-21E1-B57B-CE88-CED775CFB30D (p2, c1, k60).
+1732715801: Client auto-9BBC9173-21E1-B57B-CE88-CED775CFB30D disconnected.
+1732715829: Client auto-1ABA8675-0B1A-B001-6A60-225986C2A29E disconnected.
+1732715831: New connection from 192.168.65.1:46334 on port 4005.
+1732715831: New client connected from 192.168.65.1:46334 as auto-0A078E25-6105-DCC5-EF20-8B138225637E (p2, c1, k60, u'pass').
+1732715834: New connection from 192.168.65.1:46335 on port 4005.
+1732715834: New client connected from 192.168.65.1:46335 as auto-A6FC938F-3EED-5810-3D51-9BBECF28A132 (p2, c1, k60).
+1732715834: Client auto-A6FC938F-3EED-5810-3D51-9BBECF28A132 disconnected.
+1732715890: Client auto-0A078E25-6105-DCC5-EF20-8B138225637E disconnected.
+1732715891: New connection from 192.168.65.1:46396 on port 4005.
+1732715891: New client connected from 192.168.65.1:46396 as auto-9BE334DF-8404-AF40-A8F6-52AC7856E491 (p2, c1, k60, u'pass').
+1732715893: New connection from 192.168.65.1:46397 on port 4005.
+1732715893: New client connected from 192.168.65.1:46397 as auto-4630BCCD-010C-4E56-ABD8-535652AC903E (p2, c1, k60).
+1732715893: Client auto-4630BCCD-010C-4E56-ABD8-535652AC903E disconnected.
+1732715960: Client auto-9BE334DF-8404-AF40-A8F6-52AC7856E491 disconnected.
+1732715963: New connection from 192.168.65.1:46454 on port 4005.
+1732715963: New client connected from 192.168.65.1:46454 as auto-46044EAB-C427-34F1-3104-915614B4F228 (p2, c1, k60, u'pass').
+1732715966: New connection from 192.168.65.1:46455 on port 4005.
+1732715966: New client connected from 192.168.65.1:46455 as auto-3FEEF16E-D048-A72E-ABB3-D1038B6E5662 (p2, c1, k60).
+1732715966: Client auto-3FEEF16E-D048-A72E-ABB3-D1038B6E5662 disconnected.
+1732716295: New connection from 192.168.65.1:46720 on port 4005.
+1732716295: New client connected from 192.168.65.1:46720 as auto-C8F1CDF9-1DD3-CE93-BE87-98F906DE55A5 (p2, c1, k60, u'pass').
+1732716335: New connection from 192.168.65.1:46753 on port 4005.
+1732716335: New client connected from 192.168.65.1:46753 as auto-4D6C5F54-C342-1C56-6517-72F31ACADCCF (p2, c1, k60).
+1732716335: Client auto-4D6C5F54-C342-1C56-6517-72F31ACADCCF disconnected.
+1732716437: Client auto-46044EAB-C427-34F1-3104-915614B4F228 disconnected.
+1732716440: New connection from 192.168.65.1:46842 on port 4005.
+1732716440: New client connected from 192.168.65.1:46842 as auto-E9D325E3-9A67-B64B-53F0-F3934E3E4212 (p2, c1, k60, u'pass').
+1732716444: New connection from 192.168.65.1:46843 on port 4005.
+1732716444: New client connected from 192.168.65.1:46843 as auto-4C3D0DD5-5973-9167-F5EA-CB1AC3E5FDC2 (p2, c1, k60).
+1732716444: Client auto-4C3D0DD5-5973-9167-F5EA-CB1AC3E5FDC2 disconnected.
+1732716838: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1732718252: Client auto-E9D325E3-9A67-B64B-53F0-F3934E3E4212 disconnected.
+1732718253: New connection from 192.168.65.1:48316 on port 4005.
+1732718253: New client connected from 192.168.65.1:48316 as auto-5A24F0F4-5DA7-298C-80E5-9A3FBEDA762D (p2, c1, k60, u'pass').
+1732718257: New connection from 192.168.65.1:48317 on port 4005.
+1732718257: New client connected from 192.168.65.1:48317 as auto-17F01A4C-8250-109F-BDD3-5D35D2B32BC7 (p2, c1, k60).
+1732718257: Client auto-17F01A4C-8250-109F-BDD3-5D35D2B32BC7 disconnected.
+1732718289: Client auto-5A24F0F4-5DA7-298C-80E5-9A3FBEDA762D disconnected.
+1732718291: New connection from 192.168.65.1:48350 on port 4005.
+1732718291: New client connected from 192.168.65.1:48350 as auto-44166F61-09C3-1A9D-67FC-E3AE0930AB77 (p2, c1, k60, u'pass').
+1732718294: New connection from 192.168.65.1:48351 on port 4005.
+1732718294: New client connected from 192.168.65.1:48351 as auto-923D5A26-FFDA-E8F3-805E-32610D7289FE (p2, c1, k60).
+1732718294: Client auto-923D5A26-FFDA-E8F3-805E-32610D7289FE disconnected.
+1732718329: Client auto-44166F61-09C3-1A9D-67FC-E3AE0930AB77 disconnected.
+1732718333: New connection from 192.168.65.1:48384 on port 4005.
+1732718333: New client connected from 192.168.65.1:48384 as auto-4B247F27-2326-290D-EEF1-936F26D6E041 (p2, c1, k60, u'pass').
+1732718335: New connection from 192.168.65.1:48385 on port 4005.
+1732718335: New client connected from 192.168.65.1:48385 as auto-086E9A21-B903-6059-A2EC-746D4B5CC578 (p2, c1, k60).
+1732718335: Client auto-086E9A21-B903-6059-A2EC-746D4B5CC578 disconnected.
+1732718355: Client auto-4B247F27-2326-290D-EEF1-936F26D6E041 disconnected.
+1732718357: New connection from 192.168.65.1:48402 on port 4005.
+1732718357: New client connected from 192.168.65.1:48402 as auto-F31DA747-F19E-B2E2-992C-526C634A9563 (p2, c1, k60, u'pass').
+1732718361: New connection from 192.168.65.1:48411 on port 4005.
+1732718361: New client connected from 192.168.65.1:48411 as auto-01B1B203-E1B1-C103-10B4-55C7E4B4D14A (p2, c1, k60).
+1732718361: Client auto-01B1B203-E1B1-C103-10B4-55C7E4B4D14A disconnected.
+1732718392: Client auto-F31DA747-F19E-B2E2-992C-526C634A9563 disconnected.
+1732718393: New connection from 192.168.65.1:48436 on port 4005.
+1732718393: New client connected from 192.168.65.1:48436 as auto-D64FBC03-25A8-13B8-6922-E1E192B0576D (p2, c1, k60, u'pass').
+1732718397: New connection from 192.168.65.1:48437 on port 4005.
+1732718397: New client connected from 192.168.65.1:48437 as auto-E9C39097-B0F4-95CC-BCDA-4E1F58D51464 (p2, c1, k60).
+1732718397: Client auto-E9C39097-B0F4-95CC-BCDA-4E1F58D51464 disconnected.
+1732718639: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1732720753: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1732730891: Client auto-D64FBC03-25A8-13B8-6922-E1E192B0576D disconnected.
+1732730893: Client auto-C8F1CDF9-1DD3-CE93-BE87-98F906DE55A5 disconnected.

@@ -1,0 +1,19 @@
+version: '3.8'
+
+services:
+  broker:
+      hostname: broker
+      container_name: broker
+      image: eclipse-mosquitto
+      restart: always
+      volumes:
+        - ./mosquitto/config/mosquitto.conf:/mosquitto/config/mosquitto.conf
+        - ./mosquitto/data:/mosquitto/data
+        - ./mosquitto/log:/mosquitto/log
+      ports:
+        - '4002:4002'
+        - '4005:4005'
+
+networks:
+  mqtt_network:
+    driver: bridge
